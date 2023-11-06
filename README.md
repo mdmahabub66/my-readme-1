@@ -75,8 +75,8 @@ display("Mahbub");
 
 
 ## Task List
-- [] Task One
-- [] Task Two
+- [x] Task One
+- [x] Task Two
 - [x] Task Three
 - [x] Task Four
 - [x] Task Five
